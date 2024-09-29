@@ -1,4 +1,6 @@
-This portfolio contains a short information about the author, examples of the projects the author contributed (Point of Sales System, Tile Puzzle and ATM) as well as the repositories of each project. The portfolio also contains the programming languages, tools and applications the author has worked with. 
+
+
+This portfolio contains a short information about the author (Josh Gerald Merzo), examples of the projects the author contributed (Point of Sales System, Tile Puzzle and ATM) as well as the repositories of each project. The portfolio also contains the programming languages, tools and applications the author has worked with. 
 
 To clone the repository: 
 Copy the URL for the repository.

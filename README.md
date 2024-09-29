@@ -1,5 +1,17 @@
 This portfolio contains a short information about the author, examples of the projects the author contributed (Point of Sales System, Tile Puzzle and ATM) as well as the repositories of each project. The portfolio also contains the programming languages, tools and applications the author has worked with. 
+
 To clone the repository: 
+Copy the URL for the repository.
+Open a terminal.
+Change the current working directory to the location where you want the cloned directory.
+Type git clone, and then paste the URL you copied earlier.
+Press Enter to create your local clone.
+
+To run the code using VSCode Live Server:
+Install the LiveServer extension on the extension tab at the left of the screen.
+After installing, click the "Go Live" button on the bottom right corner of the VSCode.
+A browser window will automatically pop up, displaying your project.
+After every change on your VSCode click "ctrl + s" to see live changes on your project.
 
 
 Examples of HTML elements and tags that were used in the portfolio include: 
